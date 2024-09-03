@@ -8,7 +8,11 @@
 ## 本文档使用说明
 
 ### 1. 拉取知识库
-	git clone 本项目到本地 使用vscode打开
+
+```
+	git clone https://github.com/kms9/learn_rag_by_rag.git
+
+```  
 
 ### 2. 安装vscode以及必要插件
 
@@ -20,6 +24,7 @@
 ### 3. 打开项目之后 点击对应的图标 大纲预览
   1. 打开项目readme.md文件
   2. 点击markmap插件按钮 展示文档mindmap
+  3. 效果预览 ![rag](rag.png)
 
 ## 信息更新
 
